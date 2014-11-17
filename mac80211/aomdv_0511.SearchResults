@@ -1,0 +1,4 @@
+---- get_config_para Matches (3 in 2 files) ----
+My_debugfs.c:int get_config_para(struct config_para *my_data)	{
+My_debugfs.c:	if((ret = get_config_para(&my_data)) < 0)	{
+My_debugfs.h:int get_config_para(struct config_para *my_data);
